@@ -1,18 +1,18 @@
 {
   "expo": {
-    "name": "Expo Starter",
-    "slug": "expo-starter",
+    "name": "AC Control",
+    "slug": "expo-ac-control",
     "version": "1.0.0",
-    "githubUrl": "https://github.com/carlos3g/expo-starter",
+    "githubUrl": "https://github.com/carlos3g/expo-ac-control",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
-    "backgroundColor": "#ededf1",
-    "primaryColor": "#5c6cfc",
+    "backgroundColor": "#F3FDFB",
+    "primaryColor": "#44EABB",
     "icon": "./src/assets/images/icon.png",
     "splash": {
       "image": "./src/assets/images/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ededf1"
+      "backgroundColor": "#F3FDFB"
     },
     "updates": {
       "enabled": false
@@ -22,16 +22,16 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./src/assets/images/adaptive-icon.png",
-        "backgroundColor": "#ededf1"
+        "backgroundColor": "#F3FDFB"
       }
     },
     "androidStatusBar": {
       "barStyle": "dark-content",
-      "backgroundColor": "#ededf1"
+      "backgroundColor": "#F3FDFB"
     },
     "androidNavigationBar": {
       "barStyle": "dark-content",
-      "backgroundColor": "#ededf1"
+      "backgroundColor": "#F3FDFB"
     },
 
     "ios": {

@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-import { colors } from '@styles';
+import { colors, fonts } from '@styles';
 
 const styles = StyleSheet.create({
   container: {
@@ -10,8 +10,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    fontSize: 16,
+    fontSize: fonts.H1.size,
     color: colors.text,
+    fontFamily: fonts.H1.family,
   },
 });
 
