@@ -7,6 +7,9 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: 16,
   },
+  animation: {
+    width: '100%',
+  },
   text: {
     textAlign: 'center',
     fontFamily: fonts.P2.family,
